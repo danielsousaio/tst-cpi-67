@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.2",
+    "cookiecutter_context": {
+      "project_name": "tst-cpi",
+      "project_slug": "tst_cpi_67",
+      "project_dash_slug": "tst-cpi-67",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "daniel.s@crowdbotics.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
